@@ -4,4 +4,3 @@ read hostname
 hostnamectl set-hostname $hostname
 bash
 
-sh isomount2.sh
